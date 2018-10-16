@@ -12,7 +12,7 @@
       "/views/js/axios.js"
     ]
   },
-  "author": "ivelton queiroz",
+  "author": "ivelton de queiroz",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.17.1",
