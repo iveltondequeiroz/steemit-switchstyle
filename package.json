@@ -1,0 +1,28 @@
+{
+  "name": "switchstyle",
+  "version": "1.0.0",
+  "description": "steemit switch style scheduler",
+  "main": "app.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "standard": {
+    "ignore": [
+      "/views/js/vue.js",
+      "/views/js/axios.js"
+    ]
+  },
+  "author": "ivelton queiroz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.0",
+    "systemjs": "^0.21.0",
+    "vue": "^2.5.13",
+    "vuedraggable": "^2.16.0"
+  },
+  "devDependencies": {}
+}
